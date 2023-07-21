@@ -1,8 +1,11 @@
 # React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Application that allows users to search for their favorite gifs from giphys api. 
 
-Currently, two official plugins are available:
+ ![Alt text](<Screenshot 2023-07-21 at 3.37.10 PM.png>)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+
+ ![Alt text](<Screenshot 2023-07-21 at 3.37.47 PM.png>)
+
+
+ ![Alt text](<Screenshot 2023-07-21 at 3.38.40 PM.png>)
