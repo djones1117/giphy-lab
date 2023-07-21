@@ -44,7 +44,7 @@ getGiphyInfo();
     <SearchGiphyForm getGiphySearch={getGiphySearch}/>
      <p>The user is searching for {searchTerm}</p>
      
-     {giph.Title ? <GiphInfo giph={giph}/> : null}
+     {giph.data ? <GiphInfo giph={giph}/> : null}
     </>
   )
 }
